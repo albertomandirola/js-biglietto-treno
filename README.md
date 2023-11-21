@@ -7,3 +7,16 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 BONUS
 1 - Mostrare il risultato a video in html;
 2 - Stilizzare con i css la pagina
+
+1 - inizializo la variabile spazio e ne permetto l'inserimento tramite prompt
+2 - inizializo la variabile eta e ne permetto l'inserimento tramite prompt
+3 - definisco una costante con valore prezzo al km.
+4 - inizializo e calcolo il valore del biglietto del treno
+5.1 - chiedo se il passeggero ha piu di 65 anni:
+    6 - modifico il prezzo del biglietto applicando uno sconto
+    7 - stampo il biglietto
+5.2 - chiedo se il passeggero ha meno di 18 anni:
+    8 - modifico il prezzo del biglietto applicando uno sconto
+    9 - stampo il biglietto 
+5.3 - altrimenti 
+    10 - stampo il biglietto
